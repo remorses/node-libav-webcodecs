@@ -1,5 +1,7 @@
 this library is for implementing webcodecs in node.js using node-av
 
+notice that all browser APIs referenced in this project are ALWAYS polyfills unless they are not built into node.js directly. this project will run in Node.js always.
+
 format and align markdown tables in your message output
 
 you should write your code in zig inside native directory or typescript inside src or test.
